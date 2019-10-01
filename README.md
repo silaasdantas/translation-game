@@ -1,4 +1,10 @@
-# App1
+# English Phrase Translation Game
+
+Prod Link: http://app-translation-game.s3-website.us-east-2.amazonaws.com/
+
+## Objective
+
+The purpose of this application is to demonstrate angular concepts that are proportional to the overview and what we can accomplish with this technology.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
